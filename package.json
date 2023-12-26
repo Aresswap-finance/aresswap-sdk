@@ -1,17 +1,17 @@
 {
-  "name": "aresswap-test-sdk",
+  "name": "aresswap-sdk",
   "license": "MIT",
-  "version": "1.0.2",
-  "description": "🛠 An SDK for building applications on top of Uniswap.",
+  "version": "1.0.3",
+  "description": "🛠 An SDK for building applications on top of Aresswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-sdk.git",
+  "repository": "https://github.com/Aresswap/aresswap-sdk.git",
   "keywords": [
-    "uniswap",
-    "ethereum"
+    "aresswap",
+    "acala"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {

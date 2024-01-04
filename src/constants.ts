@@ -21,7 +21,7 @@ export enum TradeType {
 export enum Rounding {
   ROUND_DOWN,
   ROUND_HALF_UP,
-  ROUND_Uß
+  ROUND_UP
 }
 
 export const FACTORY_ADDRESS = '0x23f01c4add25791755Acc5C76F3ca32C0d3CEA7f'

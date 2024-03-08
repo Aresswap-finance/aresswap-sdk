@@ -1,14 +1,14 @@
 {
   "name": "aresswap-sdk",
   "license": "MIT",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "🛠 An SDK for building applications on top of Aresswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Aresswap/aresswap-sdk.git",
+  "repository": "https://github.com/Aresswap-finance/aresswap-sdk.git",
   "keywords": [
     "aresswap",
     "acala"
